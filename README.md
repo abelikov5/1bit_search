@@ -1,4 +1,4 @@
-## 1bit search panel
+## Laravel 10, Docker
 
 ## Start project
 
@@ -13,9 +13,6 @@ after setup finished visit [localhost:8000](http://localhost:8000/)
 
 enjoy ;)
 
-## Project ScreenCast
-
-[YouTube](https://youtu.be/_syu-fP4fEg)
 
 ## License
 
